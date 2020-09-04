@@ -303,6 +303,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 156612f14d1fb164287cba20316395ff, type: 2}
   - {fileID: 11400000, guid: b30bac2cc56d9ee49b8500a00087cbdc, type: 2}
   - {fileID: 11400000, guid: fdacd699ec0448449861e7a727a438be, type: 2}
+  looping: 1
 --- !u!4 &1387154090
 Transform:
   m_ObjectHideFlags: 0
